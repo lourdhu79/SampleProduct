@@ -1,2 +1,2 @@
 # SampleProduct
-This is the sample exercise solution consists of Mutiple projects to showcase work
+This is the sample exercise solution consists of mutiple projects to showcase work
